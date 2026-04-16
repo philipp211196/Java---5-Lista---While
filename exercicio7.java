@@ -13,6 +13,8 @@ public class exercicio7 {
             a = a + 1;
             c = b;
             b = b + a;
+            sc.close;
+        
 
         }
     }}
